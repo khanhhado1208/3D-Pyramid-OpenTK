@@ -15,10 +15,12 @@ Make sure to have the following installed:
 
 ## How to Run
 
-1. Clone the repository:
+   Clone the repository:
    ```bash
    git clone https://github.com/username/3D-Pyramid-OpenTK.git
- 
+
+   Navigate to the project directory:
+   ```bash
    cd 3D-Pyramid-OpenTK\ReadFile3D
 
 ## Run the application:
@@ -28,5 +30,7 @@ The 3D pyramid should appear, rotating along the Y-axis:
 
 ![image](https://github.com/user-attachments/assets/93941d34-fd2b-40f7-9bed-ed02e836685f)
 
-Demo Video ![https://www.youtube.com/watch?v=sKQjmP1EdRs]
+## Demo Video
+A demo of the 3D pyramid rotation in the following video:  
+[Demo Video](https://www.youtube.com/watch?v=sKQjmP1EdRs)
 
