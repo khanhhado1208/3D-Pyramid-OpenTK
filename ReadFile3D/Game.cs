@@ -1,4 +1,4 @@
-﻿using OpenTK.Graphics.OpenGL4;
+using OpenTK.Graphics.OpenGL4;
 using OpenTK.Mathematics;
 using OpenTK.Windowing.Common;
 using OpenTK.Windowing.Desktop;
@@ -19,7 +19,7 @@ class Game : GameWindow
 
     public Game() : base(GameWindowSettings.Default, new NativeWindowSettings()
     {
-        Size = new OpenTK.Mathematics.Vector2i(800, 600),
+        ClientSize = new OpenTK.Mathematics.Vector2i(800, 600),
         Title = "3D Pyramid",
         Flags = ContextFlags.ForwardCompatible
     })
