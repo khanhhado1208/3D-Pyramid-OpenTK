@@ -16,6 +16,7 @@ Make sure to have the following installed:
 ## How to Run
 
    Clone the repository:
+   
    git clone https://github.com/username/3D-Pyramid-OpenTK.git
 
    Navigate to the project directory:
