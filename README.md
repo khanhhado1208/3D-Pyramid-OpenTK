@@ -27,3 +27,5 @@ dotnet run
 The 3D pyramid should appear, rotating along the Y-axis:
 
 ![image](https://github.com/user-attachments/assets/93941d34-fd2b-40f7-9bed-ed02e836685f)
+
+Demo [https://www.youtube.com/watch?v=sKQjmP1EdRs]
