@@ -31,6 +31,7 @@ The 3D pyramid should appear, rotating along the Y-axis:
 ![image](https://github.com/user-attachments/assets/93941d34-fd2b-40f7-9bed-ed02e836685f)
 
 ## Demo Video
-A demo of the 3D pyramid rotation in the following video:  
+A demo of the 3D pyramid rotation in the following video:
+
 [Demo Video](https://www.youtube.com/watch?v=sKQjmP1EdRs)
 
