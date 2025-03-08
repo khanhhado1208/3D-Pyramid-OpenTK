@@ -18,7 +18,8 @@ Make sure to have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/3D-Pyramid-OpenTK.git
-cd 3D-Pyramid-OpenTK\ReadFile3D
+   ```bash
+   cd 3D-Pyramid-OpenTK\ReadFile3D
 
 ## Run the application:
 dotnet run
