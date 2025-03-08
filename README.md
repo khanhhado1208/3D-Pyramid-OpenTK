@@ -20,7 +20,7 @@ Make sure to have the following installed:
    git clone https://github.com/username/3D-Pyramid-OpenTK.git
 
    Navigate to the project directory:
-   ```bash
+ 
    cd 3D-Pyramid-OpenTK\ReadFile3D
 
 ## Run the application:
